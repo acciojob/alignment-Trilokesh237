@@ -1,1 +1,8 @@
 /*  your css code here. If applicable */
+.heading{
+	text-align:center;
+}
+.table-1{
+	height:150px;
+	width:700px;
+}
